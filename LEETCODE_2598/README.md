@@ -74,3 +74,6 @@ The MEX of nums is 2. It can be shown that 2 is the maximum MEX we can achieve.
 
 ---
 
+### Constraints:
+1 <= nums.length, value <= 105  
+-109 <= nums[i] <= 109  
