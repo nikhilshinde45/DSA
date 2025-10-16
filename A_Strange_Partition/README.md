@@ -40,16 +40,16 @@ For each test case, output two integers:
 ## 🧮 Example
 
 ### Input
-2
-3 3
-3 6 9
-3 3
-6 4 11
+2  
+3 3  
+3 6 9  
+3 3  
+6 4 11  
 
 
 ### Output
-6 6
-7 8
+6 6  
+7 8  
 
 ---
 
