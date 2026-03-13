@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0093-restore-ip-addresses](https://github.com/nikhilshinde45/DSA/tree/master/0093-restore-ip-addresses) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/nikhilshinde45/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/nikhilshinde45/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/nikhilshinde45/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nikhilshinde45/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## Backtracking
+|  |
+| ------- |
+| [0093-restore-ip-addresses](https://github.com/nikhilshinde45/DSA/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
