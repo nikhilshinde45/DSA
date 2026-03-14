@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/nikhilshinde45/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/nikhilshinde45/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/nikhilshinde45/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/nikhilshinde45/DSA/tree/master/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/nikhilshinde45/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/nikhilshinde45/DSA/tree/master/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 ## Math
 |  |
 | ------- |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/nikhilshinde45/DSA/tree/master/0093-restore-ip-addresses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/nikhilshinde45/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Hash Table
+|  |
+| ------- |
+| [3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/nikhilshinde45/DSA/tree/master/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 <!---LeetCode Topics End-->
