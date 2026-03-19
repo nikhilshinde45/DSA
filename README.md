@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0445-add-two-numbers-ii](https://github.com/nikhilshinde45/DSA/tree/master/0445-add-two-numbers-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nikhilshinde45/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Binary Search
 |  |
@@ -95,9 +96,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0445-add-two-numbers-ii](https://github.com/nikhilshinde45/DSA/tree/master/0445-add-two-numbers-ii) |
 | [1504-count-submatrices-with-all-ones](https://github.com/nikhilshinde45/DSA/tree/master/1504-count-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1504-count-submatrices-with-all-ones](https://github.com/nikhilshinde45/DSA/tree/master/1504-count-submatrices-with-all-ones) |
+## Linked List
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/nikhilshinde45/DSA/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
