@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nikhilshinde45/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/nikhilshinde45/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhilshinde45/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/nikhilshinde45/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nikhilshinde45/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Bit Manipulation
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nikhilshinde45/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/nikhilshinde45/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhilshinde45/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/nikhilshinde45/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## String
 |  |
 | ------- |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/nikhilshinde45/DSA/tree/master/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/nikhilshinde45/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 <!---LeetCode Topics End-->
