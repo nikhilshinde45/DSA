@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/nikhilshinde45/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nikhilshinde45/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhilshinde45/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2906-construct-product-matrix](https://github.com/nikhilshinde45/DSA/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/nikhilshinde45/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nikhilshinde45/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Bit Manipulation
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/nikhilshinde45/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nikhilshinde45/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhilshinde45/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2906-construct-product-matrix](https://github.com/nikhilshinde45/DSA/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/nikhilshinde45/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## String
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2906-construct-product-matrix](https://github.com/nikhilshinde45/DSA/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/nikhilshinde45/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Stack
 |  |
