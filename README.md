@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nikhilshinde45/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nikhilshinde45/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1029-two-city-scheduling](https://github.com/nikhilshinde45/DSA/tree/master/1029-two-city-scheduling) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nikhilshinde45/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1504-count-submatrices-with-all-ones](https://github.com/nikhilshinde45/DSA/tree/master/1504-count-submatrices-with-all-ones) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nikhilshinde45/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nikhilshinde45/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nikhilshinde45/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1029-two-city-scheduling](https://github.com/nikhilshinde45/DSA/tree/master/1029-two-city-scheduling) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nikhilshinde45/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhilshinde45/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2751-robot-collisions](https://github.com/nikhilshinde45/DSA/tree/master/2751-robot-collisions) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nikhilshinde45/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nikhilshinde45/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1029-two-city-scheduling](https://github.com/nikhilshinde45/DSA/tree/master/1029-two-city-scheduling) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nikhilshinde45/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhilshinde45/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nikhilshinde45/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
