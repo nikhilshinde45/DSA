@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/nikhilshinde45/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nikhilshinde45/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhilshinde45/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/nikhilshinde45/DSA/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2751-robot-collisions](https://github.com/nikhilshinde45/DSA/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/nikhilshinde45/DSA/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/nikhilshinde45/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/nikhilshinde45/DSA/tree/master/1029-two-city-scheduling) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nikhilshinde45/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhilshinde45/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/nikhilshinde45/DSA/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2751-robot-collisions](https://github.com/nikhilshinde45/DSA/tree/master/2751-robot-collisions) |
 ## Counting
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/nikhilshinde45/DSA/tree/master/1029-two-city-scheduling) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nikhilshinde45/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhilshinde45/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/nikhilshinde45/DSA/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nikhilshinde45/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/nikhilshinde45/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Matrix
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/nikhilshinde45/DSA/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2906-construct-product-matrix](https://github.com/nikhilshinde45/DSA/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/nikhilshinde45/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Stack
