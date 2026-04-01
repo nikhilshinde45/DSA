@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/nikhilshinde45/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nikhilshinde45/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhilshinde45/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2751-robot-collisions](https://github.com/nikhilshinde45/DSA/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/nikhilshinde45/DSA/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/nikhilshinde45/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nikhilshinde45/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nikhilshinde45/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nikhilshinde45/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nikhilshinde45/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2751-robot-collisions](https://github.com/nikhilshinde45/DSA/tree/master/2751-robot-collisions) |
 ## Counting
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/nikhilshinde45/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2751-robot-collisions](https://github.com/nikhilshinde45/DSA/tree/master/2751-robot-collisions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/nikhilshinde45/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nikhilshinde45/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1504-count-submatrices-with-all-ones](https://github.com/nikhilshinde45/DSA/tree/master/1504-count-submatrices-with-all-ones) |
+| [2751-robot-collisions](https://github.com/nikhilshinde45/DSA/tree/master/2751-robot-collisions) |
 ## Monotonic Stack
 |  |
 | ------- |
